@@ -9,3 +9,6 @@ Code untuk di App Script Google `Kode.gs`
   return ContentService.createTextOutput(JSON.stringify(responseObj)).setMimeType(ContentService.MimeType.JSON);
 }
    ```
+CC TikTok: [Ex-Mamang Ngoding](https://www.tiktok.com/@gikspedia)
+
+Video Tutorial: [Tonton Video](https://vt.tiktok.com/ZSYd2BRk6/)
